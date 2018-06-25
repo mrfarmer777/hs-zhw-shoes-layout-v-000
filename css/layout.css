@@ -37,4 +37,6 @@
   display:block
 }
 
-
+[class="col-"]{
+  margin-left:2%;
+}
