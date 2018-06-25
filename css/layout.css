@@ -37,8 +37,9 @@
   display:block
 }
 
-[class*="col-"]{  
+[class*="col-"]{
   margin-left:2%;
+  margin-bottom:2%;
 }
 
 .first {
